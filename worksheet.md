@@ -37,19 +37,19 @@ results you observe.
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size:2 bytes
+  range:-32768 to 32767
 * `int`
-  size:
-  range:
+  size:4 bytes
+  range: -2147483638 to  2147483637
 * `long int`
-  size:
-  range:
+  size: 4 bytes
+  range: -2147483638 to  2147483637
 * `float`
-  size:
+  size: 4 bytes
   range: 7 digits of accuracy
 * `double`
-  size:
+  size: 8 bytes 
   range: 15 digits of accuracy
 
 
@@ -87,3 +87,4 @@ The area is 7.500000 square units.yes we correct the program
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
 we change fraction to float 1/2 to 0.5.
+ 
