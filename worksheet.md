@@ -69,7 +69,7 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
-
+we would not be able to get the value because int can't store big values like the given value.
 
 
 
