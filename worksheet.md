@@ -2,7 +2,7 @@
 # Computer Science I 
 ## Lab 2.0 Worksheet
 
-Name(s) and Login(s):
+Name(s) and Log:
 
 
 
@@ -57,11 +57,11 @@ results you observe.
 the exchange amounts for the following inputs:
 
   a) $250.25
-
+USD to PK IS 69819.750000  
   b) $1,000.52
-
+USD to PK IS 279145.093750
   c) $968,410.12
-
+USD to PK IS 270186432.000000
 
 
 6. Suppose that you had used only `int` types
