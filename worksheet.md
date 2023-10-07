@@ -78,6 +78,7 @@ Why or why not?
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
 
+The area is 6.000000 square units.
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
