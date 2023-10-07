@@ -86,3 +86,4 @@ The area is 7.500000 square units.yes we correct the program
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+we change fraction to float 1/2 to 0.5.
