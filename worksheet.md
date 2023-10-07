@@ -82,7 +82,7 @@ The area is 6.000000 square units.
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
-
+The area is 7.500000 square units.yes we correct the program
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
