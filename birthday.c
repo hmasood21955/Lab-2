@@ -49,7 +49,7 @@ int main(int argc, char **argv) {
   time_t bdayT = mktime(&bday);
   long diff = (long) difftime(now, bdayT);
 
-  int years = diff / (365* 24 * 60 * 60);+
+  int years = diff / (365* 24 * 60 * 60);
   diff -= years * (365 * 24 * 60 * 60);
   int days = diff / (24 * 60 * 60);
 
