@@ -31,7 +31,7 @@ Give at least two examples of potentially bad input and the
 results you observe.
 
 
-
+NOT UNDERSTANDING
 
 4. Complete all the size and range entries below.
 
