@@ -25,8 +25,11 @@ int main(int argc, char **argv) {
   int year = atoi(argv[2]);
   int month = atoi(argv[3]);
   int day = atoi(argv[4]);
-  //tip: atoi converts alphanumeric to an integer
-  //     atof converts alphanumeric to a double
+  if (year < 1900 || year > 2100 || month < 1 || month > 12 || day < 1 || day > 31)
+  {
+    fprintf(stderr, "ERROR: Invalid date. Please provide a valid date between 1900 and 2100.\n");
+    exit(1);
+  }
 
   char str[100];
   time_t now = time(NULL);
