@@ -1,3 +1,4 @@
+// program of totalamount to half yen and other half pounds.
 #include<stdio.h>
 int main(void)
 {
